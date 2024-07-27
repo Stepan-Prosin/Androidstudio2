@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="ru.netology.testing.uiautomator.ChangeTextTest" tests="4" failures="0" errors="0" skipped="0" time="50.712" timestamp="2024-07-27T11:15:24" hostname="localhost">
+  <properties>
+    <property name="device" value="Medium_Phone_API_33(AVD) - 13" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="testActivityText" classname="ru.netology.testing.uiautomator.ChangeTextTest" time="12.723" />
+  <testcase name="testInternetSettings" classname="ru.netology.testing.uiautomator.ChangeTextTest" time="10.402" />
+  <testcase name="testEmptyText" classname="ru.netology.testing.uiautomator.ChangeTextTest" time="12.236" />
+  <testcase name="testChangeText" classname="ru.netology.testing.uiautomator.ChangeTextTest" time="11.542" />
+</testsuite>

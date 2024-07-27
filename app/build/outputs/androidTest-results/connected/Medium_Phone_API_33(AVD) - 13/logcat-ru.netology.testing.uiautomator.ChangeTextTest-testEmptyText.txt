@@ -1,0 +1,140 @@
+07-27 11:14:57.699 18697 18716 I TestRunner: started: testEmptyText(ru.netology.testing.uiautomator.ChangeTextTest)
+07-27 11:14:57.857   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f28f2000 0x3f32d6000]
+07-27 11:14:57.997   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09e4000]
+07-27 11:14:58.082   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f09e4000 0x3f13c8000]
+07-27 11:14:58.315 12066 12904 W Parcel  : Expecting binder but got null!
+07-27 11:14:58.332   764   841 I ActivityTaskManager: Displayed com.android.settings/.SubSettings: +1s199ms
+07-27 11:14:58.332   764   841 I ActivityTaskManager: Fully drawn com.android.settings/.SubSettings: +1s199ms
+07-27 11:14:58.335 12066 12066 D BluetoothPan: Proxy object connected
+07-27 11:14:58.338 12066 12066 D BluetoothPan: Proxy object connected
+07-27 11:14:58.344 12066 12066 I InternetUpdater: Detect an internet available network with transport type: 1
+07-27 11:14:58.349 12066 12066 I InternetUpdater: Detect an internet available network with transport type: 1
+07-27 11:14:58.353 12066 12066 D MobileNetworkSummaryStatus: network summary query
+07-27 11:14:58.362 12066 12479 I OpenGLRenderer: Davey! duration=943ms; Flags=1, FrameTimelineVsyncId=425230, IntendedVsync=7119381024882, Vsync=7119881024862, InputEventId=0, HandleInputStart=7119890071500, AnimationStart=7119890090100, PerformTraversalsStart=7119890243600, DrawStart=7120195989900, FrameDeadline=7119397691548, FrameInterval=7119890029900, FrameStartTime=16666666, SyncQueued=7120199447600, SyncStart=7120396582000, IssueDrawCommandsStart=7120396816500, SwapBuffers=7120499054600, FrameCompleted=7120521796500, DequeueBufferDuration=63800, QueueBufferDuration=900700, GpuCompleted=7120521796500, SwapBuffersCompleted=7120514239600, DisplayPresentTime=8241904425781258359, CommandSubmissionCompleted=7120499054600,
+07-27 11:14:58.366 12066 12418 W MobileNetworkUtils: EuiccManager is not enabled.
+07-27 11:14:58.382 12066 12066 D SubscriptionGrouping: Grouping [SubscriptionAnnotation{subId=1,type=1,exist=true,active=true,displayAllow=true}]
+07-27 11:14:58.382 12066 12066 D MobileNetworkSummaryStatus: network summary query ignored
+07-27 11:14:58.391   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f3e36000 0x3f3e39000]
+07-27 11:14:58.402 12066 12066 D MobileNetworkSummaryStatus: network summary query ignored
+07-27 11:14:58.402 12066 12066 D MobileNetworkSummaryStatus: network summary query ignored
+07-27 11:14:58.466 12066 12066 I Choreographer: Skipped 46 frames!  The application may be doing too much work on its main thread.
+07-27 11:14:58.487   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f3e39000 0x3f3e3c000]
+07-27 11:14:58.575   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f3e3c000 0x3f3f3a000]
+07-27 11:14:58.646 12066 12904 D EGL_emulation: app_time_stats: avg=135.05ms min=25.55ms max=524.14ms count=7
+07-27 11:14:58.647 12066 12479 I OpenGLRenderer: Davey! duration=910ms; Flags=0, FrameTimelineVsyncId=425568, IntendedVsync=7119897691528, Vsync=7120664358164, InputEventId=0, HandleInputStart=7120665225600, AnimationStart=7120665248900, PerformTraversalsStart=7120666012700, DrawStart=7120674531100, FrameDeadline=7120547691502, FrameInterval=7120665158200, FrameStartTime=16666666, SyncQueued=7120675923000, SyncStart=7120686726100, IssueDrawCommandsStart=7120691808200, SwapBuffers=7120728123600, FrameCompleted=7120818603700, DequeueBufferDuration=29800, QueueBufferDuration=230300, GpuCompleted=7120818603700, SwapBuffersCompleted=7120758506800, DisplayPresentTime=7872578038849565804, CommandSubmissionCompleted=7120728123600,
+07-27 11:14:58.670   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f32d6000 0x3f33d4000]
+07-27 11:14:58.687 12066 12479 I OpenGLRenderer: Davey! duration=873ms; Flags=0, FrameTimelineVsyncId=425568, IntendedVsync=7119897691528, Vsync=7120664358164, InputEventId=0, HandleInputStart=7120665225600, AnimationStart=7120665248900, PerformTraversalsStart=7120666012700, DrawStart=7120687886900, FrameDeadline=7120364358176, FrameInterval=7120665158200, FrameStartTime=16666666, SyncQueued=7120691750400, SyncStart=7120766033700, IssueDrawCommandsStart=7120766586500, SwapBuffers=7120769056700, FrameCompleted=7120844999300, DequeueBufferDuration=23100, QueueBufferDuration=1354300, GpuCompleted=7120844999300, SwapBuffersCompleted=7120819317600, DisplayPresentTime=5984971278400, CommandSubmissionCompleted=7120769056700,
+07-27 11:14:58.715   764  1708 W Parcel  : Expecting binder but got null!
+07-27 11:14:58.765   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f32d6000 0x3f33d4000]
+07-27 11:14:58.930   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f33d4000 0x3f34d2000]
+07-27 11:14:58.969   764  1708 W Parcel  : Expecting binder but got null!
+07-27 11:14:59.086  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-27 11:14:59.088  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-27 11:14:59.089  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.android.settings fieldId=-1 fieldName=null extras=null}, false)
+07-27 11:14:59.090  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-27 11:14:59.545  1154  1154 V ShadeControllerImpl: NotificationShadeWindow: com.android.systemui.shade.NotificationShadeWindowView{22d5378 I.E...... ......ID 0,0-1080,2400} canPanelBeCollapsed(): false
+07-27 11:14:59.562 12066 12904 D EGL_emulation: app_time_stats: avg=129.77ms min=18.71ms max=244.22ms count=9
+07-27 11:14:59.575   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f13c8000 0x3f1dac000]
+07-27 11:14:59.608  1154  1154 V ShadeControllerImpl: NotificationShadeWindow: com.android.systemui.shade.NotificationShadeWindowView{22d5378 I.E...... ......ID 0,0-1080,2400} canPanelBeCollapsed(): false
+07-27 11:14:59.651   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f6e2b000 0x3f780f000]
+07-27 11:14:59.797   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f49e4000]
+07-27 11:14:59.900   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f49e4000 0x3f53c8000]
+07-27 11:14:59.914  1462  2692 D OneSearchSuggestProvider: Created the binder channel successfully for end point service =com.google.android.apps.search.googleapp.search.suggest.plugins.onesearch.server.OneSearchSuggestService , mChannel=E2{delegate=w2{logId=190, target=directaddress:///AndroidComponentAddress%5BIntent%20%7B%20act=grpc.io.action.BIND%20cmp=com.google.android.googlequicksearchbox/com.google.android.apps.search.googleapp.search.suggest.plugins.onesearch.server.OneSearchSuggestService%20%7D%5D}} , mOneSearchConnection=Q1.d0@79ef861
+07-27 11:14:59.929  1462  1595 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+07-27 11:14:59.934 12066 12066 D DashboardFragment: unregister observer: @8b336bd, uri: content://com.google.android.apps.wellbeing.api/digitalWellbeingSummary
+07-27 11:14:59.987   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3fa790000 0x3fb174000]
+07-27 11:15:00.118   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3fb174000 0x3fbb58000]
+07-27 11:15:00.127  9005  9005 I A       : Created gRPC endpoint to "search" for service class com.google.android.apps.search.googleapp.search.suggest.plugins.onesearch.server.OneSearchSuggestService
+07-27 11:15:00.136  9005  9005 W A       : Can't get WAA status for Mavatar!
+07-27 11:15:00.136  9005  9005 W A       : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Class java.lang.Object.getClass()' on a null object reference
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.apps.tiktok.dataservice.z.b(PG:1)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.apps.tiktok.dataservice.at.a(PG:1)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.apps.tiktok.tracing.ec.a(PG:2)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.aj.a(PG:2)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.ac.apply(PG:1)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.h.e(PG:2)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.j.run(PG:9)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.bf.execute(PG:1)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.d.i(PG:1)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.d.l(PG:12)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.d.n(PG:2)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.i.f(PG:1)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.common.util.concurrent.j.run(PG:12)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.android.libraries.i.ae.run(PG:1)
+07-27 11:15:00.136  9005  9005 W A       : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+07-27 11:15:00.136  9005  9005 W A       : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.android.libraries.i.k.run(PG:2)
+07-27 11:15:00.136  9005  9005 W A       : 	at com.google.android.libraries.i.p.run(PG:4)
+07-27 11:15:00.136  9005  9005 W A       : 	at java.lang.Thread.run(Thread.java:1012)
+07-27 11:15:00.150  3894  3894 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
+07-27 11:15:00.152  3894  5410 I GsaVoiceInteractionSrv: disregardVoiceMatch: false
+07-27 11:15:00.169  3894  5410 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
+07-27 11:15:00.220   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f6447000 0x3f6a9b000]
+07-27 11:15:00.240  1462 18775 D OneSearchSuggestProvider: Convert suggest response to search results for query= time=7122439 mResponse list size=0
+07-27 11:15:00.320  1154  1425 D EGL_emulation: app_time_stats: avg=1201.75ms min=33.10ms max=4199.41ms count=4
+07-27 11:15:00.553  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-27 11:15:00.555  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-27 11:15:00.555  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.google.android.apps.nexuslauncher fieldId=-1 fieldName=null extras=null}, false)
+07-27 11:15:00.558  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-27 11:15:00.619 12066 12904 D EGL_emulation: app_time_stats: avg=103.64ms min=23.62ms max=310.00ms count=9
+07-27 11:15:01.025 12066 12066 I TetheringManager: unregisterTetheringEventCallback caller:com.android.settings
+07-27 11:15:01.043  1154  1425 D EGL_emulation: app_time_stats: avg=318.32ms min=18.45ms max=2928.90ms count=11
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed App frame:UNKNOWN: 74, 427044, 0, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed SF frame:UNKNOWN: 74, 427044, 0, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missing HWUI jank callback for vsyncId: 427044, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed App frame:UNKNOWN: 74, 427059, 0, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed SF frame:UNKNOWN: 74, 427059, 0, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missing HWUI jank callback for vsyncId: 427059, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed App frame:UNKNOWN: 74, 427074, 193226250, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed SF frame:UNKNOWN: 74, 427074, 193226250, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missing SF jank callback for vsyncId: 427097, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed App frame:UNKNOWN: 74, 427120, 350594020, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed SF frame:UNKNOWN: 74, 427120, 350594020, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed App frame:UNKNOWN: 74, 427142, 333897256, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.444  1462  1462 W FrameTracker: Missed SF frame:UNKNOWN: 74, 427142, 333897256, CUJ=J<LAUNCHER_APP_CLOSE_TO_HOME>
+07-27 11:15:01.472  1462  2239 D EGL_emulation: app_time_stats: avg=120.69ms min=21.63ms max=502.20ms count=12
+07-27 11:15:02.130  1154  1425 D EGL_emulation: app_time_stats: avg=51.89ms min=22.59ms max=185.20ms count=16
+07-27 11:15:03.251  1462  2239 D EGL_emulation: app_time_stats: avg=169.05ms min=34.01ms max=1216.08ms count=10
+07-27 11:15:05.419  1462  2239 D EGL_emulation: app_time_stats: avg=99.66ms min=2.63ms max=1310.15ms count=20
+07-27 11:15:05.811 12066 12076 I TetheringManager: unregisterTetheringEventCallback:com.android.settings
+07-27 11:15:05.815 12066 12076 I TetheringManager: unregisterTetheringEventCallback:com.android.settings
+07-27 11:15:06.803   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f28f2000 0x3f32d6000]
+07-27 11:15:06.812 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ef47fc8 in: PRE_ON_CREATE
+07-27 11:15:06.845 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ef47fc8 in: CREATED
+07-27 11:15:06.848 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ef47fc8 in: STARTED
+07-27 11:15:06.851 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@ef47fc8 in: RESUMED
+07-27 11:15:06.883   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09e4000]
+07-27 11:15:06.886  3894  3894 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+07-27 11:15:06.891  3894  5414 E HwDetectorWithState: a: 3
+07-27 11:15:06.938   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f09e4000 0x3f13c8000]
+07-27 11:15:06.954  1462  2239 D EGL_emulation: app_time_stats: avg=73.97ms min=27.30ms max=716.49ms count=20
+07-27 11:15:06.996   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f89e4000]
+07-27 11:15:07.127   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f89e4000 0x3f93c8000]
+07-27 11:15:07.189   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f93c8000 0x3f9dac000]
+07-27 11:15:07.202  1154  1425 W Parcel  : Expecting binder but got null!
+07-27 11:15:07.369   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f9dac000 0x3fa400000]
+07-27 11:15:07.383 18697 18719 W Parcel  : Expecting binder but got null!
+07-27 11:15:07.388 18697 18697 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+07-27 11:15:07.501  1154  1425 D EGL_emulation: app_time_stats: avg=1187.81ms min=42.74ms max=6737.45ms count=6
+07-27 11:15:07.518  1462  1470 I s.nexuslauncher: NativeAlloc concurrent copying GC freed 67033(2656KB) AllocSpace objects, 2(240KB) LOS objects, 49% free, 6863KB/13MB, paused 398us,246us total 150.558ms
+07-27 11:15:07.523  1462  1472 W System  : A resource failed to call release.
+07-27 11:15:07.523  1462  1472 W System  : A resource failed to call release.
+07-27 11:15:07.523  1462  1472 W System  : A resource failed to call release.
+07-27 11:15:07.525  1462  1472 W System  : A resource failed to call release.
+07-27 11:15:07.526  1462  1472 W System  : A resource failed to call release.
+07-27 11:15:07.527  1462  1472 W System  : A resource failed to call release.
+07-27 11:15:07.552   764   841 W ziparchive: Unable to open '/data/app/~~-EG4QoL7U49667RUPqGJrg==/ru.netology.testing.uiautomator-AJI5eJQhm2kp66cP8TtepA==/base.dm': No such file or directory
+07-27 11:15:07.552   764   841 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.MainActivity: +803ms
+07-27 11:15:07.648  1462  2692 D OneSearchSuggestProvider: Shut down the binder channel
+07-27 11:15:07.649  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-27 11:15:07.652  1462 15998 I s.nexuslauncher: oneway function results for code 2 on binder at 0x7acd02f7aa90 will be dropped but finished with status UNKNOWN_TRANSACTION
+07-27 11:15:07.654  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-27 11:15:07.655  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=ru.netology.testing.uiautomator fieldId=-1 fieldName=null extras=null}, false)
+07-27 11:15:07.656  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-27 11:15:08.064  1154  1425 D EGL_emulation: app_time_stats: avg=651.88ms min=28.32ms max=5471.93ms count=9
+07-27 11:15:08.076   764  2543 W InputManager-JNI: Input channel object '8ed6eb7 Splash Screen ru.netology.testing.uiautomator (client)' was disposed without first being removed with the input manager!
+07-27 11:15:08.927 18697 18719 D EGL_emulation: app_time_stats: avg=171.24ms min=22.13ms max=1058.99ms count=8
+07-27 11:15:09.081  1154  1425 D EGL_emulation: app_time_stats: avg=41.71ms min=19.36ms max=176.83ms count=20
+07-27 11:15:09.442  3915  5326 D AudioFlinger: mixer(0x7285fd7169a0) throttle end: throttle time(36)
+07-27 11:15:09.942 18697 18719 D EGL_emulation: app_time_stats: avg=90.89ms min=17.02ms max=540.94ms count=10
+07-27 11:15:09.947 18697 18716 I TestRunner: finished: testEmptyText(ru.netology.testing.uiautomator.ChangeTextTest)

@@ -1,0 +1,55 @@
+07-27 11:15:11.319 18697 18716 I TestRunner: started: testChangeText(ru.netology.testing.uiautomator.ChangeTextTest)
+07-27 11:15:11.924  1462  2239 D EGL_emulation: app_time_stats: avg=54.26ms min=3.88ms max=223.56ms count=17
+07-27 11:15:12.959  1462  2692 D OneSearchSuggestProvider: Established or reuse existing binder channel authority=com.google.android.googlequicksearchbox
+07-27 11:15:12.961  1154  1154 V ShadeControllerImpl: NotificationShadeWindow: com.android.systemui.shade.NotificationShadeWindowView{22d5378 I.E...... ......ID 0,0-1080,2400} canPanelBeCollapsed(): false
+07-27 11:15:12.973  1462  1595 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+07-27 11:15:12.976  1462 18790 D OneSearchSuggestProvider: Convert suggest response to search results for query= time=7135175 mResponse list size=0
+07-27 11:15:12.982  1154  1154 V ShadeControllerImpl: NotificationShadeWindow: com.android.systemui.shade.NotificationShadeWindowView{22d5378 I.E...... ......ID 0,0-1080,2400} canPanelBeCollapsed(): false
+07-27 11:15:12.989  1462  2239 D EGL_emulation: app_time_stats: avg=73.14ms min=10.97ms max=571.94ms count=13
+07-27 11:15:14.136  1462  2239 D EGL_emulation: app_time_stats: avg=573.24ms min=429.45ms max=717.04ms count=2
+07-27 11:15:16.109   402   402 E android.hardware.power.stats@1.0-service-mock: Failed to getEnergyData
+07-27 11:15:16.303  1462  2239 D EGL_emulation: app_time_stats: avg=86.41ms min=2.72ms max=1370.93ms count=22
+07-27 11:15:18.468  1462  2239 D EGL_emulation: app_time_stats: avg=94.77ms min=16.90ms max=1365.00ms count=22
+07-27 11:15:19.784 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@5df3b92 in: PRE_ON_CREATE
+07-27 11:15:19.805   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09e4000]
+07-27 11:15:19.813 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@5df3b92 in: CREATED
+07-27 11:15:19.815 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@5df3b92 in: STARTED
+07-27 11:15:19.817 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@5df3b92 in: RESUMED
+07-27 11:15:19.897  3894  3894 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+07-27 11:15:19.902  3894  5412 E HwDetectorWithState: a: 3
+07-27 11:15:19.949   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3fa400000 0x3fade4000]
+07-27 11:15:19.950  1462  2239 D EGL_emulation: app_time_stats: avg=66.68ms min=2.76ms max=661.77ms count=20
+07-27 11:15:20.043   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3fade4000 0x3fb7c8000]
+07-27 11:15:20.112   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f89e4000 0x3f93c8000]
+07-27 11:15:20.160   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f93c8000 0x3f9dac000]
+07-27 11:15:20.208  1154  1425 W Parcel  : Expecting binder but got null!
+07-27 11:15:20.237   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3ff174000 0x3ffb58000]
+07-27 11:15:20.301   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f37dc000 0x3f3e30000]
+07-27 11:15:20.329 18697 18719 W Parcel  : Expecting binder but got null!
+07-27 11:15:20.404  1154  1425 D EGL_emulation: app_time_stats: avg=2567.66ms min=39.18ms max=12391.51ms count=5
+07-27 11:15:20.481   764   841 W ziparchive: Unable to open '/data/app/~~-EG4QoL7U49667RUPqGJrg==/ru.netology.testing.uiautomator-AJI5eJQhm2kp66cP8TtepA==/base.dm': No such file or directory
+07-27 11:15:20.484   764   841 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.MainActivity: +718ms
+07-27 11:15:20.556  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-27 11:15:20.557  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-27 11:15:20.558  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=ru.netology.testing.uiautomator fieldId=-1 fieldName=null extras=null}, false)
+07-27 11:15:20.560  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-27 11:15:20.579  1462  2692 D OneSearchSuggestProvider: Shut down the binder channel
+07-27 11:15:20.580  1462  2083 I s.nexuslauncher: oneway function results for code 2 on binder at 0x7acd02f90120 will be dropped but finished with status UNKNOWN_TRANSACTION
+07-27 11:15:20.826  1154  1425 D EGL_emulation: app_time_stats: avg=5337.58ms min=36.40ms max=10638.76ms count=2
+07-27 11:15:20.886   764  4160 W InputManager-JNI: Input channel object 'a803057 Splash Screen ru.netology.testing.uiautomator (client)' was disposed without first being removed with the input manager!
+07-27 11:15:20.936  1154  1411 W FrameTracker: Missed App frame:UNKNOWN: 10, 434292, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-27 11:15:20.936  1154  1411 W FrameTracker: Missed SF frame:UNKNOWN: 10, 434292, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-27 11:15:20.936  1154  1411 W FrameTracker: Missing HWUI jank callback for vsyncId: 434292, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-27 11:15:20.936  1154  1411 W FrameTracker: Missed App frame:UNKNOWN: 74, 434321, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-27 11:15:20.936  1154  1411 W FrameTracker: Missed SF frame:UNKNOWN: 74, 434321, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-27 11:15:20.936  1154  1411 W FrameTracker: Missing HWUI jank callback for vsyncId: 434321, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-27 11:15:20.936  1154  1411 W FrameTracker: Missing SF jank callback for vsyncId: 434393, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-27 11:15:21.622  6819  6819 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():81 initialize...
+07-27 11:15:21.622  6819  6819 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():70 onContentChanged()
+07-27 11:15:21.623  6819  6819 I ContactsDataManager: ContactsDataManager.onContentChanged():155 onContentChanged()
+07-27 11:15:21.624  6819  6819 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():93 initialize...done
+07-27 11:15:21.644 18697 18719 D EGL_emulation: app_time_stats: avg=120.51ms min=21.75ms max=781.03ms count=9
+07-27 11:15:21.860  1154  1425 D EGL_emulation: app_time_stats: avg=34.06ms min=16.90ms max=97.57ms count=23
+07-27 11:15:22.197  3915  5326 D AudioFlinger: mixer(0x7285fd7169a0) throttle end: throttle time(40)
+07-27 11:15:22.668 18697 18719 D EGL_emulation: app_time_stats: avg=90.84ms min=19.62ms max=507.88ms count=9
+07-27 11:15:22.840 18697 18716 I TestRunner: finished: testChangeText(ru.netology.testing.uiautomator.ChangeTextTest)

@@ -1,0 +1,224 @@
+# 2024-07-27T11:15:24.388Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 4
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testActivityText"
+    start_time {
+      seconds: 1722078873
+      nanos: 589000000
+    }
+    end_time {
+      seconds: 1722078886
+      nanos: 337000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\logcat-ru.netology.testing.uiautomator.ChangeTextTest-testActivityText.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testInternetSettings"
+    start_time {
+      seconds: 1722078887
+      nanos: 411000000
+    }
+    end_time {
+      seconds: 1722078897
+      nanos: 819000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\logcat-ru.netology.testing.uiautomator.ChangeTextTest-testInternetSettings.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testEmptyText"
+    start_time {
+      seconds: 1722078897
+      nanos: 823000000
+    }
+    end_time {
+      seconds: 1722078910
+      nanos: 62000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\logcat-ru.netology.testing.uiautomator.ChangeTextTest-testEmptyText.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testChangeText"
+    start_time {
+      seconds: 1722078911
+      nanos: 451000000
+    }
+    end_time {
+      seconds: 1722078922
+      nanos: 994000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\logcat-ru.netology.testing.uiautomator.ChangeTextTest-testChangeText.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "D:\\Users\\AndroidProjects\\mqa-homeworks\\2.2 UI Automator\\sample\\app\\build\\outputs\\androidTest-results\\connected\\Medium_Phone_API_33(AVD) - 13\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

@@ -1,0 +1,122 @@
+07-27 11:14:33.442 18697 18716 I TestRunner: started: testActivityText(ru.netology.testing.uiautomator.ChangeTextTest)
+07-27 11:14:33.465  9005  9055 I A       : NGA disabled due to not being eligible.
+07-27 11:14:33.481  7231  7231 V SafetyCenterAccessibilityListener: accessibility event occurred, safety center feature not enabled.
+07-27 11:14:34.024  1154  1154 V ShadeControllerImpl: NotificationShadeWindow: com.android.systemui.shade.NotificationShadeWindowView{22d5378 I.E...... ......ID 0,0-1080,2400} canPanelBeCollapsed(): false
+07-27 11:14:34.030  1462  2692 D OneSearchSuggestProvider: Established or reuse existing binder channel authority=com.google.android.googlequicksearchbox
+07-27 11:14:34.031  1154  1154 V ShadeControllerImpl: NotificationShadeWindow: com.android.systemui.shade.NotificationShadeWindowView{22d5378 I.E...... ......ID 0,0-1080,2400} canPanelBeCollapsed(): false
+07-27 11:14:34.046  1462  1595 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+07-27 11:14:34.047  1462 18562 D OneSearchSuggestProvider: Convert suggest response to search results for query= time=7096246 mResponse list size=0
+07-27 11:14:34.507  1462  2239 D EGL_emulation: app_time_stats: avg=1866.32ms min=1866.32ms max=1866.32ms count=1
+07-27 11:14:35.520  1462  2239 D EGL_emulation: app_time_stats: avg=122.19ms min=19.64ms max=710.94ms count=8
+07-27 11:14:37.385  1462  2239 D EGL_emulation: app_time_stats: avg=215.07ms min=40.63ms max=1150.71ms count=8
+07-27 11:14:39.061  1154  1425 D EGL_emulation: app_time_stats: avg=19832.08ms min=19832.08ms max=19832.08ms count=1
+07-27 11:14:39.552  1462  2239 D EGL_emulation: app_time_stats: avg=99.15ms min=3.29ms max=1338.89ms count=20
+07-27 11:14:40.903   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f6e2b000 0x3f780f000]
+07-27 11:14:40.920 18697 18721 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+07-27 11:14:40.922 18697 18721 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+07-27 11:14:40.925 18697 18721 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+07-27 11:14:40.979   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f49e4000 0x3f53c8000]
+07-27 11:14:40.995  3894  3894 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+07-27 11:14:41.006  3894  5414 E HwDetectorWithState: a: 3
+07-27 11:14:41.016 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@c0f9b0e in: PRE_ON_CREATE
+07-27 11:14:41.032  1462  2239 D EGL_emulation: app_time_stats: avg=74.55ms min=4.46ms max=609.33ms count=18
+07-27 11:14:41.126   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f89e4000]
+07-27 11:14:41.157  1154  1425 W Parcel  : Expecting binder but got null!
+07-27 11:14:41.165 18697 18697 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10162; state: DISABLED
+07-27 11:14:41.167 18697 18697 D CompatibilityChangeReporter: Compat change id reported: 37756858; UID 10162; state: ENABLED
+07-27 11:14:41.249   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f53c8000 0x3f5a1c000]
+07-27 11:14:41.295 18697 18697 W ing.uiautomator: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+07-27 11:14:41.295 18697 18697 W ing.uiautomator: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+07-27 11:14:41.302 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@c0f9b0e in: CREATED
+07-27 11:14:41.305 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@c0f9b0e in: STARTED
+07-27 11:14:41.307 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@c0f9b0e in: RESUMED
+07-27 11:14:41.489 18697 18719 D HostConnection: createUnique: call
+07-27 11:14:41.490 18697 18719 D HostConnection: HostConnection::get() New Host Connection established 0x7acd72f35a10, tid 18719
+07-27 11:14:41.494 18697 18719 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+07-27 11:14:41.542 18697 18719 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-27 11:14:41.542 18697 18719 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+07-27 11:14:41.587 18697 18719 D EGL_emulation: eglCreateContext: 0x7acd72f35890: maj 3 min 0 rcv 3
+07-27 11:14:41.596  1154  1425 D EGL_emulation: app_time_stats: avg=2534.03ms min=2534.03ms max=2534.03ms count=1
+07-27 11:14:41.693 18697 18719 D EGL_emulation: eglMakeCurrent: 0x7acd72f35890: ver 3 0 (tinfo 0x7acf90868080) (first time)
+07-27 11:14:41.712   233   233 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+07-27 11:14:41.712 18697 18719 I Gralloc4: mapper 4.x is not supported
+07-27 11:14:41.713 18697 18719 D HostConnection: createUnique: call
+07-27 11:14:41.714 18697 18719 D HostConnection: HostConnection::get() New Host Connection established 0x7acd72f37090, tid 18719
+07-27 11:14:41.714 18697 18719 D goldfish-address-space: allocate: Ask for block of size 0x100
+07-27 11:14:41.715 18697 18719 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3efffe000 size 0x2000
+07-27 11:14:41.757   233   233 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+07-27 11:14:41.758   232   232 I servicemanager: Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest.
+07-27 11:14:41.759 18697 18719 W Gralloc4: allocator 4.x is not supported
+07-27 11:14:41.763   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09e4000]
+07-27 11:14:41.838 18697 18719 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+07-27 11:14:41.866   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f2ccd000 0x3f36b1000]
+07-27 11:14:41.936   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f13c8000 0x3f1dac000]
+07-27 11:14:42.088  1154  1425 D EGL_emulation: app_time_stats: avg=19452.62ms min=19452.62ms max=19452.62ms count=1
+07-27 11:14:42.266 18697 18719 W Parcel  : Expecting binder but got null!
+07-27 11:14:42.294   764   841 W ziparchive: Unable to open '/data/app/~~-EG4QoL7U49667RUPqGJrg==/ru.netology.testing.uiautomator-AJI5eJQhm2kp66cP8TtepA==/base.dm': No such file or directory
+07-27 11:14:42.299   764   841 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.MainActivity: +1s420ms
+07-27 11:14:42.309 18697 18697 I Choreographer: Skipped 49 frames!  The application may be doing too much work on its main thread.
+07-27 11:14:42.318 18697 18711 I OpenGLRenderer: Davey! duration=756ms; Flags=1, FrameTimelineVsyncId=416922, IntendedVsync=7103664358844, Vsync=7103664358844, InputEventId=0, HandleInputStart=7103669661600, AnimationStart=7103669684400, PerformTraversalsStart=7103669714400, DrawStart=7104065891000, FrameDeadline=7103681025510, FrameInterval=7103669626000, FrameStartTime=16666666, SyncQueued=7104078972900, SyncStart=7104136702200, IssueDrawCommandsStart=7104139259900, SwapBuffers=7104449555900, FrameCompleted=7104478810400, DequeueBufferDuration=23100, QueueBufferDuration=805200, GpuCompleted=7104478810400, SwapBuffersCompleted=7104462215900, DisplayPresentTime=0, CommandSubmissionCompleted=7104449555900,
+07-27 11:14:42.348  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-27 11:14:42.353  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-27 11:14:42.354  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=ru.netology.testing.uiautomator fieldId=-1 fieldName=null extras=null}, false)
+07-27 11:14:42.354  8221  8240 I FontLog : (REDACTED) Received query %s, URI %s
+07-27 11:14:42.355  8221  8240 I FontLog : (REDACTED) Query [%s] resolved to %s
+07-27 11:14:42.355  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-27 11:14:42.362  8221  8240 I FontLog : (REDACTED) Fetch %s end status %s
+07-27 11:14:42.391 18697 18711 I OpenGLRenderer: Davey! duration=883ms; Flags=0, FrameTimelineVsyncId=416937, IntendedVsync=7103681025510, Vsync=7104497692144, InputEventId=0, HandleInputStart=7104508786600, AnimationStart=7104508808500, PerformTraversalsStart=7104509408100, DrawStart=7104510793700, FrameDeadline=7104497692144, FrameInterval=7104508596100, FrameStartTime=16666666, SyncQueued=7104511789400, SyncStart=7104511948000, IssueDrawCommandsStart=7104512015000, SwapBuffers=7104517349600, FrameCompleted=7104564833200, DequeueBufferDuration=30600, QueueBufferDuration=481100, GpuCompleted=7104564833200, SwapBuffersCompleted=7104528517600, DisplayPresentTime=0, CommandSubmissionCompleted=7104517349600,
+07-27 11:14:42.422  8221  8240 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+07-27 11:14:42.437  8221  8240 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+07-27 11:14:42.637  1462  2692 D OneSearchSuggestProvider: Shut down the binder channel
+07-27 11:14:42.640  1462  7532 I s.nexuslauncher: oneway function results for code 2 on binder at 0x7acd02f8ef80 will be dropped but finished with status UNKNOWN_TRANSACTION
+07-27 11:14:42.762   764  2543 W InputManager-JNI: Input channel object '267284b Splash Screen ru.netology.testing.uiautomator (client)' was disposed without first being removed with the input manager!
+07-27 11:14:42.835  1154  1425 D EGL_emulation: app_time_stats: avg=220.17ms min=72.26ms max=577.07ms count=5
+07-27 11:14:43.128  1154  1425 D EGL_emulation: app_time_stats: avg=47.64ms min=11.16ms max=193.87ms count=17
+07-27 11:14:43.387  6819  6819 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():81 initialize...
+07-27 11:14:43.387  6819  6819 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():70 onContentChanged()
+07-27 11:14:43.387  6819  6819 I ContactsDataManager: ContactsDataManager.onContentChanged():155 onContentChanged()
+07-27 11:14:43.388  6819  6819 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():93 initialize...done
+07-27 11:14:43.399 18697 18719 D EGL_emulation: app_time_stats: avg=130.85ms min=30.29ms max=722.54ms count=8
+07-27 11:14:43.922  3915  5326 D AudioFlinger: mixer(0x7285fd7169a0) throttle end: throttle time(36)
+07-27 11:14:44.035 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@c0f9b0e in: PAUSED
+07-27 11:14:44.104 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@9aed8ab in: PRE_ON_CREATE
+07-27 11:14:44.126 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@9aed8ab in: CREATED
+07-27 11:14:44.128 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@9aed8ab in: STARTED
+07-27 11:14:44.130 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@9aed8ab in: RESUMED
+07-27 11:14:44.163  1154  1425 D EGL_emulation: app_time_stats: avg=24.73ms min=15.71ms max=40.78ms count=26
+07-27 11:14:44.244   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f09e4000 0x3f13c8000]
+07-27 11:14:44.391   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f6447000 0x3f6e2b000]
+07-27 11:14:44.455   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f6e2b000 0x3f780f000]
+07-27 11:14:44.503 18697 18719 D EGL_emulation: app_time_stats: avg=169.18ms min=19.00ms max=631.21ms count=6
+07-27 11:14:44.570 18697 18719 W Parcel  : Expecting binder but got null!
+07-27 11:14:44.597   764   841 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.ShowTextActivity: +690ms
+07-27 11:14:44.619   393 14065 D goldfish-address-space: claimShared: Ask to claim region [0x3f3e30000 0x3f3e33000]
+07-27 11:14:44.631 18697 18716 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80006e6b; boundsInParent: Rect(0, 0 - 1080, 2400); boundsInScreen: Rect(0, 0 - 1080, 2400); packageName: ru.netology.testing.uiautomator; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; stateDescription: null; contentDescription: null; tooltipText: null; viewIdResName: null; uniqueId: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; importantForAccessibility: true; visible: true; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]; isTextSelectable: false
+07-27 11:14:44.631 18697 18716 W ByMatcher: Skipping null child (0 of 3)
+07-27 11:14:44.633 18697 18716 W ByMatcher: Skipping null child (1 of 3)
+07-27 11:14:44.636 18697 18716 W ByMatcher: Skipping null child (2 of 3)
+07-27 11:14:44.657   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f3e33000 0x3f3e36000]
+07-27 11:14:44.767   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f3e36000 0x3f3f34000]
+07-27 11:14:44.899   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f37dc000 0x3f38da000]
+07-27 11:14:44.965   764  1708 W Parcel  : Expecting binder but got null!
+07-27 11:14:45.005   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f37dc000 0x3f38da000]
+07-27 11:14:45.181   393   540 D goldfish-address-space: claimShared: Ask to claim region [0x3f38da000 0x3f39d8000]
+07-27 11:14:45.211   764  1708 W Parcel  : Expecting binder but got null!
+07-27 11:14:45.352  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-27 11:14:45.354  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-27 11:14:45.354  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=ru.netology.testing.uiautomator fieldId=-1 fieldName=null extras=null}, false)
+07-27 11:14:45.355  6819  6819 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-27 11:14:45.356  6819  6819 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():238 startImportContentTask()
+07-27 11:14:45.357  6819  8443 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():252 doInBackground()
+07-27 11:14:45.358  6819  8443 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():111 LanguageTags = [en-US]
+07-27 11:14:45.373  6819  8443 I ShortcutsDataManager: AbstractContentDataManager.importRecords():342 importRecords() : Success : Count = 0
+07-27 11:14:45.376  6819  8443 I ShortcutsDataManager: AbstractContentDataManager.importContentData():292 importContentData() : Ending import process
+07-27 11:14:45.378  6819  8628 I Delight5Decoder: Delight5DecoderWrapper.unloadLanguageModel():831 unloadLanguageModel() : 4, version [n/a]
+07-27 11:14:45.397  6819  8443 I PersonalLanguageModelUpdater: PersonalLanguageModelUpdater$UpdateOperation.performInternal():160 run() : Added 0 words and 0 shortcuts
+07-27 11:14:45.397  6819  8443 I DynamicLanguageModelOperation: DynamicLanguageModelOperation.perform():38 perform() : 4 : ccz : Completed
+07-27 11:14:45.398  6819  8628 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():626 loadLanguageModel() : 4, version [n/a]
+07-27 11:14:45.398  6819  6819 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.onPostExecute():263 onPostExecute() : Result = [2,0]
+07-27 11:14:45.399  6819  6819 I ShortcutsDataManager: ShortcutsDataManager.onImportFinished():80 onImportFinished() : Result = 2 : Count = 0
+07-27 11:14:45.402  6819  8628 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():667 Loaded dynamic LM 4.en
+07-27 11:14:45.731 18697 18697 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@c0f9b0e in: STOPPED
+07-27 11:14:46.220 18697 18716 I TestRunner: finished: testActivityText(ru.netology.testing.uiautomator.ChangeTextTest)
